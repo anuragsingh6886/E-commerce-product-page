@@ -31,10 +31,6 @@ Users should be able to:
 
 ![](images/e-commerce-ss.png)
 
-### Links
-
-- Solution URL: [solution here](https://github.com/nasim67reja/Ecommerce.github.io)
-- Live Site URL: [ live site here](https://nasim67reja.github.io/Ecommerce.github.io/)
 
 ### Built with
 
@@ -99,6 +95,7 @@ I want to continue building project but these time i want to focus on javascript
 
 ## Author
 
-- Website - [Nasim Reja](https://www.your-site.com)
-- Frontend Mentor - [@nasim67reja](https://www.frontendmentor.io/profile/@nasim67reja)
-- Twitter - [@Nasimreja97](https://www.twitter.com/@Nasimreja97)
+- Website - [Anurag Singh](https://www.your-site.com)
+- Frontend Mentor - [@anuragsingh6886](https://www.frontendmentor.io/profile/anuragsingh6886)
+- LinkedIn - [@anuragsingh6886](https://www.linkedin.com/in/anuragsingh6886/)
+- Twitter - [@anurags_me](https://twitter.com/anurags_me)
