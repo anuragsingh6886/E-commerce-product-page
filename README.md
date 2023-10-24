@@ -95,7 +95,6 @@ I want to continue building project but these time i want to focus on javascript
 
 ## Author
 
-- Website - [Anurag Singh](https://www.your-site.com)
 - Frontend Mentor - [@anuragsingh6886](https://www.frontendmentor.io/profile/anuragsingh6886)
 - LinkedIn - [@anuragsingh6886](https://www.linkedin.com/in/anuragsingh6886/)
 - Twitter - [@anurags_me](https://twitter.com/anurags_me)
